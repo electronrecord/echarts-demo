@@ -1,3 +1,10 @@
 .main-app {
-
+  div {
+    display: flex;
+    justify-content: center;
+    button {
+      padding: 12px 24px;
+      font-size: 1.8rem;
+    }
+  }
 }
